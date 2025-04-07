@@ -1,3 +1,19 @@
 {
-	"folders": []
+	"folders": [
+		{
+			"path": "dsravya-HumanMachineInterface/code"
+		},
+		{
+			"path": "dsravya-HumanMachineInterface/css"
+		},
+		{
+			"path": "dsravya-HumanMachineInterface/docs"
+		},
+		{
+			"path": "dsravya-HumanMachineInterface/images"
+		},
+		{
+			"path": "dsravya-HumanMachineInterface/video"
+		}
+	]
 }
